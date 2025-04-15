@@ -37,3 +37,4 @@ com/budget/tracker/
 - Manejo de errores básicos
 
 ## Capturas de Pantalla
+![image alt](https://github.com/kevin1007-00/Gestor-de-Presupuesto/blob/main/Captura%20de%20pantalla%202025-04-15%20181158.png?raw=true)
